@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="welcome_you_are_in_mainactivity_of_a1">Welcome You are in MainActivity of A1</string>
+    <string name="button">Button</string>
+</resources>
